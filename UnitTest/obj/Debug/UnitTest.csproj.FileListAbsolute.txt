@@ -1,0 +1,6 @@
+c:\users\legion\documents\visual studio 2015\Projects\UnitTest\UnitTest\bin\Debug\UnitTest.exe.config
+c:\users\legion\documents\visual studio 2015\Projects\UnitTest\UnitTest\bin\Debug\UnitTest.exe
+c:\users\legion\documents\visual studio 2015\Projects\UnitTest\UnitTest\bin\Debug\UnitTest.pdb
+c:\users\legion\documents\visual studio 2015\Projects\UnitTest\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+c:\users\legion\documents\visual studio 2015\Projects\UnitTest\UnitTest\obj\Debug\UnitTest.exe
+c:\users\legion\documents\visual studio 2015\Projects\UnitTest\UnitTest\obj\Debug\UnitTest.pdb
